@@ -12,8 +12,8 @@ pygmentsUseClasses=true
 #googleAnalytics = ""
 
 [params]
-author = "Oyogo"
-introDescription = "Life on this side of eternity can be misty...'we can only see through a glass, dimly...'"
+author = "Life on this side of eternity can be misty...'we can only see through a glass, dimly...'"
+introDescription = "oyogo"
 contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
 
 [social]
