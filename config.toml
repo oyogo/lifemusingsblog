@@ -1,5 +1,5 @@
-baseurl = "https://example.com"
-title = "oyogo"
+baseurl = "/"
+title = "Life musings"
 author = "Clinton Oyogo"
 copyright = "Copyright © 2020,clinton oyogo; all rights reserved."
 canonifyurls = true
