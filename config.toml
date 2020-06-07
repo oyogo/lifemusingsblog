@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "Life musings"
 author = "Clinton Oyogo"
-copyright = "Copyright © 2020,clinton oyogo; all rights reserved."
+copyright = "Copyright © 2020,clinton oyogo."
 canonifyurls = true
 paginate = 3
 theme = "silhouette-hugo"
@@ -12,8 +12,8 @@ pygmentsUseClasses=true
 #googleAnalytics = ""
 
 [params]
-author = "Clinton Oyogo"
-introDescription = "Life on this side of eternity can be misty...we can only but see through a glass, dimly..."
+author = "Oyogo"
+introDescription = "Life on this side of eternity can be misty...'we can only see through a glass, dimly...'"
 contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
 
 [social]
