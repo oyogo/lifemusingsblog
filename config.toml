@@ -1,0 +1,23 @@
+baseurl = "https://example.com"
+title = "oyogo"
+author = "Clinton Oyogo"
+copyright = "Copyright © 2020,clinton oyogo; all rights reserved."
+canonifyurls = true
+paginate = 3
+theme = "silhouette-hugo"
+
+pygmentsUseClasses=true
+
+#disqusShortname = ""
+#googleAnalytics = ""
+
+[params]
+author = "Clinton Oyogo"
+introDescription = "Life on this side of eternity can be misty...we can only but see through a glass, dimly..."
+contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
+
+[social]
+
+linkedin = "oyogo-clinton-53359198"
+twitter = "OyogoDavid"
+
