@@ -5,6 +5,7 @@ copyright = "Copyright © 2020,clinton oyogo."
 canonifyurls = true
 paginate = 3
 theme = "silhouette-hugo"
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 pygmentsUseClasses=true
 
@@ -14,7 +15,7 @@ pygmentsUseClasses=true
 [params]
 author = "Life on this side of eternity can be misty...'we can only see through a glass, dimly...'"
 introDescription = "oyogo"
-contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
+contentSharing = "Glad if you'll be kind enough to share the link with your friends."
 
 [social]
 

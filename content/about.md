@@ -1,8 +1,9 @@
 ---
-date: "2014-04-09"
+date: "2020-06-14"
 menu: main
-title: Who am I?
+title: Clinton Oyogo
 ---
 
-Knowing Jesus was the best thing that ever happened to me in life. To live for Him is my desire. He is the trues friend I've found
+Data scientist, a lover of nature, art, poetry, particularly music, a teacher and a preacher. Above all,
+my teacher, The man Jesus Christ is still working on me to make me what I ought to be.
 
