@@ -1,4 +1,4 @@
-baseurl = "https://lifemusings.netlify.app"
+baseurl = "/"
 title = "Life musings"
 author = "Clinton Oyogo"
 copyright = "Copyright © 2020,clinton oyogo."
@@ -24,3 +24,4 @@ contentSharing = "Glad if you'll be kind enough to share the link with your frie
 linkedin = "oyogo-clinton-53359198"
 twitter = "OyogoDavid"
 
+#https://lifemusings.netlify.app
