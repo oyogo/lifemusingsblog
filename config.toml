@@ -1,11 +1,11 @@
-baseurl = "/"
+baseurl = "https://lifemusings.netlify.app"
 title = "Life musings"
 author = "Clinton Oyogo"
 copyright = "Copyright © 2020,clinton oyogo."
 canonifyurls = true
 paginate = 3
 theme = "silhouette-hugo"
-relativeurls = true
+relativeurls = false
 
 #ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 

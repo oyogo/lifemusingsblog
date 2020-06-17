@@ -1,10 +1,10 @@
 ---
-title: "Uhuru's experts"
-author: "oyogo"
+title: Uhuru's experts
+author: oyogo
 date: '2020-06-18'
 slug: uhuru-s-experts
+categories: [Hope]
 tags: []
-categories: Hope
 ---
 
 _**We all have a kingdom to rule and its prosperity is simply dependent on who sits on the right hand…..**_
@@ -14,7 +14,7 @@ _**We all have a kingdom to rule and its prosperity is simply dependent on who s
 ![](/images/eminence_grise.jpg)  
 |The cause of history in the political arena has been shaped not only by the kings and monarchs who've occupied thrones,
 but also by those who wisper in their ears,
-call them the grey eminence, the power behind the throne,  the _de facto_  rulers. These are they who pull strings, they wield potent power over rulers and their                                  influence can be for good or otherwise.|
+call them the grey eminence, the power behind the throne,  the _de facto_  rulers. These are they who pull strings, they wield potent power over rulers and their                   influence can be for good or otherwise.|
 Talk about Otto von Bismarck of Europe who was highly respected by Wilhem (I) the Kaiser of Germany, Richard Neville, the Earl of Warwick known as the 'Kingmaker' owing to his power and wealth
 to decide who sits on the throne. We have Diego Portales who ruled over Chile with an iron fist though he never occupied the highest position in the country and many others that time
 and space wouldn't permit me to mention. 
