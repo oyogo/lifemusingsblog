@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://lifemusings.netlify.app"
 title = "Life musings"
 author = "Clinton Oyogo"
 copyright = "Copyright © 2020,clinton oyogo."
@@ -7,7 +7,7 @@ paginate = 3
 theme = "silhouette-hugo"
 relativeurls = false
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 pygmentsUseClasses=true
 
